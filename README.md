@@ -1,6 +1,6 @@
 # Hello!
 
-I am Benedek Fodor, an Electrical Engineering student from Hungary, Budapest, specialized in Infocommunication / Media Technology.
+I am Benedek Fodor, an Electrical Engineering student from Hungary, Budapest, specialized in Communication Engineering, Media Technology.
 
 I have been working since February 2022 as a developer and studio technician at the E-Learning department of Óbuda University.
 
