@@ -1,11 +1,10 @@
 # Hello!
 
-I am Benedek Fodor, an Electrical Engineering student from Hungary, Budapest, specialized in Communication Engineering, Media Technology.
+I am Benedek Fodor, an Electrical Engineering student at Óbuda University from Hungary, Budapest, specialized in Communication Engineering, Media Technology.
 
-I have been working since February 2022 as a developer and studio technician at the E-Learning department of Óbuda University.\
-This semester I'm doing an internship in Hotel Knorz, Germany. I'm managing their Social Media and make content.
+I'm working since February 2022 as a Developer and Studio Technician at the E-Learning department of Óbuda University.
 
-I'm the leader of the tech team at the Association of Reformed Youth for our Summer Camps.\
-I'm also responsible for the weekly church service with contemporary music in my home town community.
+In my free time, I help with Livestreaming and Sound at the Association of the Reformed your, where I'm also part of the leadership team.\
+I also develop apps and other software solutions for church and worship use with Flutter.\
 
 On my GitHub profile, you will find my personal projects. Most of them are one-time scripts, but I've pinned a couple larger projects here:
