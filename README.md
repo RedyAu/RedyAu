@@ -1,6 +1,6 @@
 # Hello!
 
-I am Benedek Fodor, an Electrical Engineering student at Obuda University from Hungary, Budapest, specialized in Communication Engineering, Media Technology.
+I am Benedek Fodor, an Electrical Engineering graduate of Obuda University from Hungary, Budapest, specialized in Communication Engineering, Media Technology.
 
 I've been working since February 2022 as a Developer and Studio Technician at the [E-Learning Office of Obuda University](https://github.com/mos-eisley/).
 
